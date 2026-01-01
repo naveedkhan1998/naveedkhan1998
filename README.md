@@ -27,7 +27,49 @@ I can deadlift 396lbs.
 
 ## 📊 GitHub Stats (auto-updated, GitHub API)
 <!-- GH_STATS_START -->
-Loading...
+### 📌 Core Stats
+- **Public repos (non-fork):** 29
+- **Total stars (across public non-fork repos):** 34
+- **Total forks (across public non-fork repos):** 11
+- **Followers:** 9  |  **Following:** 6
+
+### 📈 Impact Metrics
+- **Starred repos:** 4 / 29 (14%)
+- **Avg stars per repo:** 1.17
+- **Repos with Docker (Dockerfile/compose):** 10 / 29 (34%)
+- **Repos with CI (.github/workflows):** 4 / 29 (14%)
+- **Repos with tests (heuristic):** 0 / 29 (0%)
+
+### ⚡ Activity (default branch only)
+- **Contributions (last 12 months):** 2621
+- **Active weeks (last 12 months):** 48 / 53
+- **Commits (last 30 days):** 42
+- **Commits (last 90 days):** 259
+- **Commits (all-time, default branch):** 1185
+
+### 🧠 Language Breakdown (by code size across repos)
+- **HTML:** 62%
+- **Jupyter Notebook:** 24%
+- **TypeScript:** 6%
+- **Python:** 3%
+- **JavaScript:** 3%
+- **CSS:** 2%
+
+### ⭐ Top repos by stars
+- [alpaca-main](https://github.com/naveedkhan1998/alpaca-main) — ⭐ 28 | 🍴 8
+- [realtime-chat-app](https://github.com/naveedkhan1998/realtime-chat-app) — ⭐ 4 | 🍴 2
+- [breeze-main](https://github.com/naveedkhan1998/breeze-main) — ⭐ 1 | 🍴 0
+- [breeze-backend](https://github.com/naveedkhan1998/breeze-backend) — ⭐ 1 | 🍴 1
+- [mnk-django-nextjs-template](https://github.com/naveedkhan1998/mnk-django-nextjs-template) — ⭐ 0 | 🍴 0
+- [challenge](https://github.com/naveedkhan1998/challenge) — ⭐ 0 | 🍴 0
+- [naveedkhan1998](https://github.com/naveedkhan1998/naveedkhan1998) — ⭐ 0 | 🍴 0
+
+### 🕒 Recently updated
+- [naveedkhan1998](https://github.com/naveedkhan1998/naveedkhan1998) — last push **2026-01-01**
+- [alpaca-main](https://github.com/naveedkhan1998/alpaca-main) — last push **2026-01-01**
+- [realtime-chat-app](https://github.com/naveedkhan1998/realtime-chat-app) — last push **2025-12-27**
+- [breeze-main](https://github.com/naveedkhan1998/breeze-main) — last push **2025-12-22**
+- [bookstore-frontend](https://github.com/naveedkhan1998/bookstore-frontend) — last push **2025-12-11**
 <!-- GH_STATS_END -->
 
 ---
