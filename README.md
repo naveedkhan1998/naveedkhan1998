@@ -11,7 +11,18 @@ I’m currently working on:<br>Full-stack web development projects involving Dja
 ## 📊 GitHub Stats (auto-updated)
 
 <!-- GH_STATS_START -->
-Loading...
+- **Public repos (non-fork):** 29
+- **Total stars (across public non-fork repos):** 34
+- **Total forks (across public non-fork repos):** 11
+- **Contributions (last 12 months):** 2620
+- **Followers:** 9  |  **Following:** 6
+
+**Top repos by stars:**
+- [alpaca-main](https://github.com/naveedkhan1998/alpaca-main) — ⭐ 28 | 🍴 8
+- [realtime-chat-app](https://github.com/naveedkhan1998/realtime-chat-app) — ⭐ 4 | 🍴 2
+- [breeze-main](https://github.com/naveedkhan1998/breeze-main) — ⭐ 1 | 🍴 0
+- [breeze-backend](https://github.com/naveedkhan1998/breeze-backend) — ⭐ 1 | 🍴 1
+- [mnk-django-nextjs-template](https://github.com/naveedkhan1998/mnk-django-nextjs-template) — ⭐ 0 | 🍴 0
 <!-- GH_STATS_END -->
 
 
