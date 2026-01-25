@@ -11,8 +11,8 @@ I’m currently working on:<br>Full-stack web development projects involving Dja
 - **Public repos (non-fork):** 29
 - **Total stars (across public non-fork repos):** 46
 - **Total forks (across public non-fork repos):** 11
-- **Contributions (last 12 months):** 2544
-- **Followers:** 10  |  **Following:** 6
+- **Contributions (last 12 months):** 2554
+- **Followers:** 11  |  **Following:** 6
 
 **Top repos by stars:**
 - [alpaca-main](https://github.com/naveedkhan1998/alpaca-main) — ⭐ 40 | 🍴 8
