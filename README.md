@@ -8,18 +8,18 @@ I’m currently working on:<br>Full-stack web development projects involving Dja
 ## 📊 GitHub Stats (auto-updated)
 
 <!-- GH_STATS_START -->
-- **Public repos (non-fork):** 29
-- **Total stars (across public non-fork repos):** 46
+- **Public repos (non-fork):** 31
+- **Total stars (across public non-fork repos):** 47
 - **Total forks (across public non-fork repos):** 11
-- **Contributions (last 12 months):** 2517
+- **Contributions (last 12 months):** 2484
 - **Followers:** 11  |  **Following:** 6
 
 **Top repos by stars:**
-- [alpaca-main](https://github.com/naveedkhan1998/alpaca-main) — ⭐ 40 | 🍴 8
+- [alpaca-main](https://github.com/naveedkhan1998/alpaca-main) — ⭐ 41 | 🍴 8
 - [realtime-chat-app](https://github.com/naveedkhan1998/realtime-chat-app) — ⭐ 4 | 🍴 2
 - [breeze-main](https://github.com/naveedkhan1998/breeze-main) — ⭐ 1 | 🍴 0
 - [breeze-backend](https://github.com/naveedkhan1998/breeze-backend) — ⭐ 1 | 🍴 1
-- [mnk-django-nextjs-template](https://github.com/naveedkhan1998/mnk-django-nextjs-template) — ⭐ 0 | 🍴 0
+- [workflows-starter-template](https://github.com/naveedkhan1998/workflows-starter-template) — ⭐ 0 | 🍴 0
 <!-- GH_STATS_END -->
 
 
