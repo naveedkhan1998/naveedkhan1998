@@ -11,7 +11,7 @@ I’m currently working on:<br>Full-stack web development projects involving Dja
 - **Public repos (non-fork):** 31
 - **Total stars (across public non-fork repos):** 56
 - **Total forks (across public non-fork repos):** 13
-- **Contributions (last 12 months):** 1847
+- **Contributions (last 12 months):** 1983
 - **Followers:** 13  |  **Following:** 3
 
 **Top repos by stars:**
