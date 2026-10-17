@@ -8,10 +8,10 @@ I’m currently working on:<br>Full-stack web development projects involving Dja
 ## 📊 GitHub Stats (auto-updated)
 
 <!-- GH_STATS_START -->
-- **Public repos (non-fork):** 31
+- **Public repos (non-fork):** 32
 - **Total stars (across public non-fork repos):** 64
 - **Total forks (across public non-fork repos):** 16
-- **Contributions (last 12 months):** 395
+- **Contributions (last 12 months):** 434
 - **Followers:** 14  |  **Following:** 3
 
 **Top repos by stars:**
@@ -19,7 +19,7 @@ I’m currently working on:<br>Full-stack web development projects involving Dja
 - [realtime-chat-app](https://github.com/naveedkhan1998/realtime-chat-app) — ⭐ 6 | 🍴 2
 - [breeze-main](https://github.com/naveedkhan1998/breeze-main) — ⭐ 1 | 🍴 0
 - [breeze-backend](https://github.com/naveedkhan1998/breeze-backend) — ⭐ 1 | 🍴 1
-- [workflows-starter-template](https://github.com/naveedkhan1998/workflows-starter-template) — ⭐ 0 | 🍴 0
+- [resume-forge](https://github.com/naveedkhan1998/resume-forge) — ⭐ 0 | 🍴 0
 <!-- GH_STATS_END -->
 
 
