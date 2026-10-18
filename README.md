@@ -9,17 +9,17 @@ I’m currently working on:<br>Full-stack web development projects involving Dja
 
 <!-- GH_STATS_START -->
 - **Public repos (non-fork):** 32
-- **Total stars (across public non-fork repos):** 64
+- **Total stars (across public non-fork repos):** 65
 - **Total forks (across public non-fork repos):** 16
-- **Contributions (last 12 months):** 434
+- **Contributions (last 12 months):** 438
 - **Followers:** 14  |  **Following:** 3
 
 **Top repos by stars:**
 - [alpaca-main](https://github.com/naveedkhan1998/alpaca-main) — ⭐ 56 | 🍴 13
 - [realtime-chat-app](https://github.com/naveedkhan1998/realtime-chat-app) — ⭐ 6 | 🍴 2
+- [resume-forge](https://github.com/naveedkhan1998/resume-forge) — ⭐ 1 | 🍴 0
 - [breeze-main](https://github.com/naveedkhan1998/breeze-main) — ⭐ 1 | 🍴 0
 - [breeze-backend](https://github.com/naveedkhan1998/breeze-backend) — ⭐ 1 | 🍴 1
-- [resume-forge](https://github.com/naveedkhan1998/resume-forge) — ⭐ 0 | 🍴 0
 <!-- GH_STATS_END -->
 
 
